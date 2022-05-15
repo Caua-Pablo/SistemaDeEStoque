@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8f3bcce-d022-4885-8138-3280edb5419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaDeEstoque.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Principal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/TipoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/TipoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/ClienteView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/FornecedorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/LoginView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/MenuView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/ProdutoView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/TipoPessoaView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/TipoProdutoView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/view/UsuarioView.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8f3bcce-d022-4885-8138-3280edb5419e" name="Changes" comment="atualizações" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29DW13dgUapPEW3wMhJADSHyQ7q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -40,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/zoll/IdeaProjects/SistemaDeEstoque/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zoll/IdeaProjects/SistemaDeEstoque/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -61,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652647919100</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualizações">
+      <created>1652648304063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648304063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizações" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizações" />
   </component>
 </project>

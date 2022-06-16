@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8f3bcce-d022-4885-8138-3280edb5419e" name="Changes" comment="atualizações" />
+    <list default="true" id="89bf919b-d73a-4e85-9ffc-1596d34e0e2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Principal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/Fornecedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/TipoPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/TipoProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/model/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/ClienteView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/FornecedorView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/LoginView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/MenuView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/ProdutoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/TipoPessoaView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/TipoProdutoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/view/UsuarioView.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,46 +31,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="29DW13dgUapPEW3wMhJADSHyQ7q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2AezUPaCaEhAeEoBakyxuo9zL0A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zoll/IdeaProjects/SistemaDeEstoque/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal.Main" />
+      <module name="SistemaDeEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8f3bcce-d022-4885-8138-3280edb5419e" name="Changes" comment="" />
-      <created>1652647919100</created>
+      <changelist id="89bf919b-d73a-4e85-9ffc-1596d34e0e2b" name="Changes" comment="" />
+      <created>1655384855522</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652647919100</updated>
+      <updated>1655384855522</updated>
     </task>
-    <task id="LOCAL-00001" summary="atualizações">
-      <created>1652648304063</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1652648304063</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,9 +85,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="atualizações" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizações" />
   </component>
 </project>
